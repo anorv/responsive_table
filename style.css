@@ -1,0 +1,53 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.delet {
+  margin-right: 20px;
+}
+
+.modalo_fonas {
+  background-color: rgba(0, 0, 0, 0.4);
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  position: fixed;
+  display: none;
+}
+
+.modalo_fonas .modalo_vidinis {
+  background-color: wheat;
+  width: 400px;
+  padding: 20px;
+  text-align: center;
+  margin: 60px auto;
+  -webkit-box-shadow: 7px 1px 15px -1px #000000;
+          box-shadow: 7px 1px 15px -1px #000000;
+}
+
+button {
+  padding: 5px;
+}
+
+.redaguoti_fona {
+  background-color: rgba(0, 0, 0, 0.4);
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  position: fixed;
+  display: none;
+}
+
+.redaguoti_vidinis {
+  background-color: wheat;
+  width: 400px;
+  padding: 20px;
+  text-align: center;
+  margin: 60px auto;
+  -webkit-box-shadow: 7px 1px 15px -1px #000000;
+          box-shadow: 7px 1px 15px -1px #000000;
+}
+/*# sourceMappingURL=style.css.map */
